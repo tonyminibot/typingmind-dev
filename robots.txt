@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://typingmind.dev/sitemap.xml
